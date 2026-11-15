@@ -277,3 +277,4 @@ Implement and compare the two retraining strategies defined in the research spec
    - *Minority-Class Recall:* How well the retrained model preserves detection of rare events after retraining.
 
 Once Task 3 is complete, the final component (**Task 4: Part 3 — Healing Decision Engines: ADORN Q-Learning vs Regol Cost-Aware**) can be assembled using the detectors and retrainers.
+

@@ -90,3 +90,4 @@ Datasets: Credit Card Fraud (synthetic drift) · Elec2 (real temporal drift) · 
 
 This comparison study feeds into the **Self-Healing MLOps Architecture** (Semester 2):
 a closed-loop system combining adaptive drift detection, adversarial testing, Q-learning decisions, multi-gate validation, and canary deployment — the first prototype to combine all five in one system.
+
